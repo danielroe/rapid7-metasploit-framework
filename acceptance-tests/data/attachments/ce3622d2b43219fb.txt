@@ -1,0 +1,43 @@
+Final status:
+Process still alive after running test suite
+stdout and stderr:
+DEBUG:root:[*] running method core_negotiate_tlv_encryption
+DEBUG:root:[*] Negotiating TLV encryption
+DEBUG:root:[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100e3fc10c41ab980adf36bb3cd3a8569d334b84396aa6a13bca496f088872c97ef3dea4257bcda04df650e787c3d912465b64b1ea468423962e0028478c325f3c1131628ba46209f186b15e1a016a6baf740e950c0df9f78ea3d4bb10a9434ce6e6cafbdddc29d64a37caab517e6e68da167fc234cf6a7900eb0f580f02537d69dfe34c445b1efde4caa651334c30cb312011feb68ec410d32085998bd421ee0f253db142a3b10a6183a56e5e2d2231d7c6e3d0aef13dfcf7f5552443efd42366cc28a4c4eabb7ab8714e87bb773eb99436cbf80f9e0c06dabd6743d8ab612122213198ff658e9bb04a4768b1fe0d04c60a65ea031e3573ccce9eb790100adfe850203010001
+DEBUG:root:[*] AES key: 0x733ae97025a921579b0f11d16190df3036c2e6ad7878a616ee6a7768fec7becd
+DEBUG:root:[*] Encrypted AES key: 0x721b19adb9fef73a8f055209daebdf43d1bf2211d611e698cb7ed17faca4235d0dadd220047831396bc68848682509a7feb67a5d3eee8e5c8f9a8bee2786da57ac99b4fe1a2e9570c77ecb7e9a134215160698476aa9a83307b4de1e865dc581d66b199cc00a3d61c25fd5750ea4f175f55a1d3f920e3fd5aa56808e13934025606531c4a0e7ec30c15941c4bb0a32ddab80f8aab339e5c346a5807a6f321a2353dbd74d525f4032e0e1aa5cb75d753ae48858bdcf10c9c19df6e88e583ca79de8ac33ecd6ee6b82bc055648860f7ad5772f10dad8dbf183f631ea2bb1eca348a6f01bbf6ed6b7aa2e68a92a3874698833baec29322130c4c7a0cf1a6351588b
+DEBUG:root:[*] TLV encryption sorted
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_session_guid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_loadlib
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_fs_getwd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_getuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_sysinfo
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_uuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_interfaces
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_routes
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_fs_stat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_channel_open
+DEBUG:root:[*] core_channel_open dispatching to handler: channel_open_stdapi_fs_file
+DEBUG:root:[*] added channel id: 1 type: MeterpreterFile
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_channel_read
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_channel_eof
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_channel_close
+DEBUG:root:[*] closed and removed channel id: 1
+DEBUG:root:[*] sending response packet

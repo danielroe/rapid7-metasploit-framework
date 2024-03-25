@@ -1,0 +1,64 @@
+Final status:
+Process still alive after running test suite
+stdout and stderr:
+DEBUG:root:[*] running method core_negotiate_tlv_encryption
+DEBUG:root:[*] Negotiating TLV encryption
+DEBUG:root:[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100c52855812765f80129875a1ca9f05503cb46645ce8797d97edef7b77001f7a157b06ed6a0cdcd92e03b24c09696259a392e18336f3cae4f073a947839599035efbb57688e98d5e9712796023ad17f55b71d2e538a0e851387d043cacec097de8777caaa7e0a17e10d53335ae949ff75bff025fe0a6beee84c16e8deb404cecad60ff34c845cf46abb9e18d39fa5d881f14453e0a7557cca09a3c4c69ef2e712869c38eb0f5a4994e0bf9fe8f0c9d9f19ca093163f16cf708fcb353bda41bd68b280d7e7e08a654da5a60870386214490362bf9622155edf4987d35fa32bd4975702ee430ffea6d82670ea401e19a8417c0b0c50cd1321282a289fd7367f966bb0203010001
+DEBUG:root:[*] AES key: 0x99f895e117eee5156f084ba6a328dc2bd6906a902df9e70d9929bb25e3c6dd98
+DEBUG:root:[*] Encrypted AES key: 0x73a3242061e363e3aac7d46fd1bf5faceff92f389aad53ce714ffdf97bc0dbae974546495e02380711bf957255d541167727fb315e3eb5fa8dbe73460d205fa083060ee540279d488314ac2098fb584455fa0408b0ae7a0f77afbd16d97ca6ba0b920b10f5a02389438af251007bc2951a0a1bd954bf0530d0ce5896e7ce29b03309081afc2d8434d45d05a22c410a4263882508313271225e92548d6c65c329918dde4d50742ad6bfcc5175f3b447a76649ca7210a1d31fddf39f79d041fc2e46ab50a2e49f6c7664c8eb22d684da4b6ae5360d9e31129bca251b9678a718141a4c6899ae9bbaec8a23355a43b622e398a514ebde690da8381eab69d034c61d
+DEBUG:root:[*] TLV encryption sorted
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_session_guid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_loadlib
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_fs_getwd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_getuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_sysinfo
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_uuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_interfaces
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_routes
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_native_arch
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.so.6!malloc
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.so.6!getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_process_getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.so.6!calloc
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.so.6!inet_ntop
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.so.6!strcat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api_multi
+DEBUG:root:[*] railgun calling: libc.so.6!getpid
+DEBUG:root:[*] railgun calling: libc.so.6!strcat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_process_getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_memwrite
+DEBUG:root:[*] railgun writing 128 bytes to 0x0x556acf3ea860
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_memread
+DEBUG:root:[*] railgun reading 128 bytes from 0x0x556acf3ea860
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.so.6!free
+DEBUG:root:[*] sending response packet

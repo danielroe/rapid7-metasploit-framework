@@ -1,0 +1,425 @@
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 10, cb 0x7f00c08c4b6a, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 13, cb 0x7f00c08c4b1d, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 22, cb 0x7f00c08c4ac1, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 11, cb 0x7f00c08c4a82, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 21, cb 0x7f00c08c4a21, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 16, cb 0x7f00c08c4919, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 12, cb 0x7f00c08c4604, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 23, cb 0x7f00c08c45d4, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 4, cb 0x7f00c08c39dc, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 2, cb 0x7f00c08c43aa, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 6, cb 0x7f00c08c4305, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 7, cb 0x7f00c08c4278, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 5, cb 0x7f00c08c4179, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 8, cb 0x7f00c08c40a2, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1, cb 0x7f00c08c403b, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 3, cb 0x7f00c08c448d, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1001, cb 0x7f00c08cd89b, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1004, cb 0x7f00c08cad5b, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1006, cb 0x7f00c08cd84f, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1007, cb 0x7f00c08cae05, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1005, cb 0x7f00c08ca2f0, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1002, cb 0x7f00c08cd2b0, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1008, cb 0x7f00c08cd25a, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1011, cb 0x7f00c08caccc, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1003, cb 0x7f00c08cad1e, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1009, cb 0x7f00c08cd1d9, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1013, cb 0x7f00c08cd19d, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1014, cb 0x7f00c08ca35c, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1016, cb 0x7f00c08cac8f, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1010, cb 0x7f00c08ca30b, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1015, cb 0x7f00c08ca326, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1026, cb 0x7f00c08cd3e6, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1019, cb 0x7f00c08cb98c, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1022, cb 0x7f00c08cbc31, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1017, cb 0x7f00c08cbe99, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1023, cb 0x7f00c08cbeb3, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1018, cb 0x7f00c08cbc71, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1021, cb 0x7f00c08cbed0, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1020, cb 0x7f00c08ca341, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1024, cb 0x7f00c08cd76c, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1025, cb 0x7f00c08cd751, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1052, cb 0x7f00c08cc753, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1055, cb 0x7f00c08cd557, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1059, cb 0x7f00c08cc833, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1056, cb 0x7f00c08cc8f0, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1071, cb 0x7f00c08ccb6a, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1067, cb 0x7f00c08cd5a2, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1068, cb 0x7f00c08cd698, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1069, cb 0x7f00c08cccad, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1077, cb 0x7f00c08cd7d5, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1071, cb 0x7f00c08ccb6a, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1072, cb 0x7f00c08ccc38, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1070, cb 0x7f00c08cd787, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1095, cb 0x7f00c08ca2e6, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1118, cb 0x7f00c08d2caf, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1119, cb 0x7f00c08ce7eb, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1083, cb 0x7f00c08ccfe7, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1112, cb 0x7f00c08d2b4a, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1113, cb 0x7f00c08d2a5a, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1114, cb 0x7f00c08d2aca, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1111, cb 0x7f00c08d26e1, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1117, cb 0x7f00c08d2555, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1115, cb 0x7f00c08d25fb, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [tlv.c:498] Registering command 1116, cb 0x7f00c08d2666, arg 0x1c2d040
+[03-25-2024 11:24:00.715s] [mettle.c:75] Heartbeat
+[03-25-2024 11:24:00.829s] [tlv.c:525] handler for 16: 0x1c2fa40
+[03-25-2024 11:24:00.829s] [tlv.c:566] processing command: 16 id: '51044158957820563464228500892170'
+[03-25-2024 11:24:00.831s] [tlv.c:525] handler for 10: 0x1c2f5e0
+[03-25-2024 11:24:00.831s] [tlv.c:566] processing command: 10 id: '30815977984033956440152436146706'
+[03-25-2024 11:24:00.833s] [tlv.c:525] handler for 10: 0x1c2f5e0
+[03-25-2024 11:24:00.833s] [tlv.c:566] processing command: 10 id: '12669516384423382308044491958576'
+[03-25-2024 11:24:00.842s] [tlv.c:525] handler for 1008: 0x1c300a0
+[03-25-2024 11:24:00.842s] [tlv.c:566] processing command: 1008 id: '18633885677178190371039223671002'
+[03-25-2024 11:24:00.843s] [tlv.c:525] handler for 1055: 0x1c30e80
+[03-25-2024 11:24:00.843s] [tlv.c:566] processing command: 1055 id: '11989354667483935006885594328574'
+[03-25-2024 11:24:00.844s] [tlv.c:525] handler for 1059: 0x1c30ee0
+[03-25-2024 11:24:00.844s] [tlv.c:566] processing command: 1059 id: '36582296971847763381288359021812'
+[03-25-2024 11:24:00.845s] [tlv.c:525] handler for 1019: 0x1c30ac0
+[03-25-2024 11:24:00.845s] [tlv.c:566] processing command: 1019 id: '56138172003458334953444012222971'
+[03-25-2024 11:24:00.845s] [stdapi/net/config.c:46] lo: 127.0.0.1/8
+[03-25-2024 11:24:00.845s] [stdapi/net/config.c:46] lo: ::1
+[03-25-2024 11:24:00.845s] [stdapi/net/config.c:46] eth0: 10.1.0.30/16
+[03-25-2024 11:24:00.845s] [stdapi/net/config.c:46] eth0: fe80::6245:bdff:fedc:29ef/64
+[03-25-2024 11:24:00.845s] [stdapi/net/config.c:46] docker0: 172.17.0.1/16
+[03-25-2024 11:24:00.846s] [tlv.c:525] handler for 1022: 0x1c30b20
+[03-25-2024 11:24:00.846s] [tlv.c:566] processing command: 1022 id: '64974051411342648649099239741205'
+[03-25-2024 11:24:01.052s] [tlv.c:525] handler for 1008: 0x1c300a0
+[03-25-2024 11:24:01.052s] [tlv.c:566] processing command: 1008 id: '49212577937112232678444973557866'
+[03-25-2024 11:24:01.053s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:01.053s] [tlv.c:566] processing command: 1052 id: '83774344021241098925587413485481'
+[03-25-2024 11:24:01.054s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:01.054s] [tlv.c:566] processing command: 1052 id: '75009357234137677550066380009156'
+[03-25-2024 11:24:01.055s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.055s] [tlv.c:566] processing command: 1016 id: '83852306338572977063562296643165'
+[03-25-2024 11:24:01.055s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.055s] [tlv.c:566] processing command: 1016 id: '01236897622217277976633933524796'
+[03-25-2024 11:24:01.056s] [tlv.c:525] handler for 1014: 0x1c30280
+[03-25-2024 11:24:01.056s] [tlv.c:566] processing command: 1014 id: '81672471586135614801105464483349'
+[03-25-2024 11:24:01.057s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:01.057s] [tlv.c:566] processing command: 1052 id: '36216263676458211225678971810723'
+[03-25-2024 11:24:01.058s] [tlv.c:525] handler for 1001: 0x1c2fe60
+[03-25-2024 11:24:01.058s] [tlv.c:566] processing command: 1001 id: '32724697332483656122566296004727'
+[03-25-2024 11:24:01.059s] [tlv.c:525] handler for 1008: 0x1c300a0
+[03-25-2024 11:24:01.059s] [tlv.c:566] processing command: 1008 id: '46470866885370944104732550806064'
+[03-25-2024 11:24:01.060s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.060s] [tlv.c:566] processing command: 1016 id: '53773834706470985644777727187919'
+[03-25-2024 11:24:01.061s] [tlv.c:525] handler for 1011: 0x1c30100
+[03-25-2024 11:24:01.061s] [tlv.c:566] processing command: 1011 id: '84300575777138264500479316017688'
+[03-25-2024 11:24:01.062s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:01.062s] [tlv.c:566] processing command: 1052 id: '06708396844765191257518217977581'
+[03-25-2024 11:24:01.063s] [tlv.c:525] handler for 1001: 0x1c2fe60
+[03-25-2024 11:24:01.063s] [tlv.c:566] processing command: 1001 id: '25262113209687599390816716138717'
+[03-25-2024 11:24:01.063s] [tlv.c:525] handler for 1008: 0x1c300a0
+[03-25-2024 11:24:01.063s] [tlv.c:566] processing command: 1008 id: '55932675810085037864036403633641'
+[03-25-2024 11:24:01.064s] [tlv.c:525] handler for 1008: 0x1c300a0
+[03-25-2024 11:24:01.064s] [tlv.c:566] processing command: 1008 id: '18066866191187182337040124282567'
+[03-25-2024 11:24:01.068s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.068s] [tlv.c:566] processing command: 1016 id: '53658484968240290639012500497795'
+[03-25-2024 11:24:01.069s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.069s] [tlv.c:566] processing command: 1016 id: '24828117903551592364521545356325'
+[03-25-2024 11:24:01.070s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.070s] [tlv.c:566] processing command: 1016 id: '41943970860273109335271733039984'
+[03-25-2024 11:24:01.071s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.071s] [tlv.c:566] processing command: 1016 id: '07905112994286868148161238863639'
+[03-25-2024 11:24:01.072s] [tlv.c:525] handler for 1011: 0x1c30100
+[03-25-2024 11:24:01.072s] [tlv.c:566] processing command: 1011 id: '28690676753295000464749074703295'
+[03-25-2024 11:24:01.073s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.073s] [tlv.c:566] processing command: 1016 id: '11986150547835060608354538477044'
+[03-25-2024 11:24:01.074s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:01.074s] [tlv.c:566] processing command: 4 id: '84986268860004081000286589099054'
+[03-25-2024 11:24:01.074s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:01.075s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:01.075s] [tlv.c:566] processing command: 8 id: '59604359506444478881921194733719'
+[03-25-2024 11:24:01.075s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:01.075s] [tlv.c:566] processing command: 1 id: '73406808100279269619273557083931'
+[03-25-2024 11:24:01.076s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.076s] [tlv.c:566] processing command: 1016 id: '17775975649005200412866286439366'
+[03-25-2024 11:24:01.077s] [tlv.c:525] handler for 1011: 0x1c30100
+[03-25-2024 11:24:01.077s] [tlv.c:566] processing command: 1011 id: '18478453871413459244211106892542'
+[03-25-2024 11:24:01.078s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:01.078s] [tlv.c:566] processing command: 4 id: '50635727817508608554466047259256'
+[03-25-2024 11:24:01.078s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:01.079s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:01.079s] [tlv.c:566] processing command: 8 id: '73956283884628485494149222681963'
+[03-25-2024 11:24:01.079s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:01.079s] [tlv.c:566] processing command: 1 id: '24350050727088448764789682704859'
+[03-25-2024 11:24:01.080s] [tlv.c:525] handler for 1009: 0x1c301c0
+[03-25-2024 11:24:01.080s] [tlv.c:566] processing command: 1009 id: '33119275252074781144993173637635'
+[03-25-2024 11:24:01.081s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.081s] [tlv.c:566] processing command: 1016 id: '87982470309709560078198194838305'
+[03-25-2024 11:24:01.082s] [tlv.c:525] handler for 1003: 0x1c30160
+[03-25-2024 11:24:01.082s] [tlv.c:566] processing command: 1003 id: '80462285418160762227998994908262'
+[03-25-2024 11:24:01.083s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.083s] [tlv.c:566] processing command: 1016 id: '79333860345472031731164895194750'
+[03-25-2024 11:24:01.085s] [tlv.c:525] handler for 1069: 0x1c310c0
+[03-25-2024 11:24:01.085s] [tlv.c:566] processing command: 1069 id: '58469258542833195636432556202427'
+[03-25-2024 11:24:01.085s] [stdapi/sys/process.c:339] process_new: command -v ln || which ln && echo DXOZPVZK  0x00000043
+[03-25-2024 11:24:01.085s] [process.c:427] child pid 3169 started
+[03-25-2024 11:24:01.085s] [process.c:462] IO started on fds 10 6
+[03-25-2024 11:24:01.085s] [process.c:274] nothing on fd 6: Resource temporarily unavailable
+[03-25-2024 11:24:01.085s] [process.c:274] nothing on fd 10: Invalid argument
+[03-25-2024 11:24:01.085s] [process.c:285] child pid 3169 exited status 0
+[03-25-2024 11:24:01.085s] [process.c:274] nothing on fd 10: Invalid argument
+[03-25-2024 11:24:01.085s] [process.c:274] nothing on fd 6: Invalid argument
+[03-25-2024 11:24:01.086s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:01.086s] [tlv.c:566] processing command: 5 id: '01135694716442652204589817094544'
+[03-25-2024 11:24:01.086s] [stdapi/sys/process.c:249] read 21 bytes for channel
+[03-25-2024 11:24:01.087s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:01.087s] [tlv.c:566] processing command: 5 id: '70670677724405164369465700731421'
+[03-25-2024 11:24:01.489s] [tlv.c:525] handler for 1068: 0x1c31060
+[03-25-2024 11:24:01.489s] [tlv.c:566] processing command: 1068 id: '45500591643373841519056242204024'
+[03-25-2024 11:24:01.490s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.490s] [tlv.c:566] processing command: 1016 id: '27711040116158395616494326596653'
+[03-25-2024 11:24:01.590s] [tlv.c:525] handler for 1011: 0x1c30100
+[03-25-2024 11:24:01.590s] [tlv.c:566] processing command: 1011 id: '53368049986441413164235385273292'
+[03-25-2024 11:24:01.691s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:01.691s] [tlv.c:566] processing command: 1016 id: '05916812692437484933441054818491'
+[03-25-2024 11:24:01.792s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:01.792s] [tlv.c:566] processing command: 4 id: '79827236131344699330836781776004'
+[03-25-2024 11:24:01.792s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:01.892s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:01.892s] [tlv.c:566] processing command: 8 id: '05053024957603899920866784703624'
+[03-25-2024 11:24:01.993s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:01.993s] [tlv.c:566] processing command: 1 id: '59134315007830407561489963396532'
+[03-25-2024 11:24:01.993s] [tlv.c:525] handler for 1069: 0x1c310c0
+[03-25-2024 11:24:01.993s] [tlv.c:566] processing command: 1069 id: '95789959695958767843152424124133'
+[03-25-2024 11:24:01.993s] [stdapi/sys/process.c:339] process_new: ln -s $(pwd)/meterpreter-test-dir $(pwd)/meterpreter-test-dir.lnk  0x00000043
+[03-25-2024 11:24:01.994s] [process.c:427] child pid 3170 started
+[03-25-2024 11:24:01.994s] [process.c:462] IO started on fds 10 6
+[03-25-2024 11:24:01.995s] [process.c:274] nothing on fd 6: Invalid argument
+[03-25-2024 11:24:01.995s] [process.c:274] nothing on fd 10: Invalid argument
+[03-25-2024 11:24:01.995s] [process.c:285] child pid 3170 exited status 0
+[03-25-2024 11:24:01.995s] [process.c:274] nothing on fd 10: Invalid argument
+[03-25-2024 11:24:01.995s] [process.c:274] nothing on fd 6: Invalid argument
+[03-25-2024 11:24:02.094s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:02.094s] [tlv.c:566] processing command: 5 id: '72276653456381165182990108223232'
+[03-25-2024 11:24:02.395s] [tlv.c:525] handler for 1068: 0x1c31060
+[03-25-2024 11:24:02.395s] [tlv.c:566] processing command: 1068 id: '83994370106296056853346036141012'
+[03-25-2024 11:24:02.396s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:02.396s] [tlv.c:566] processing command: 1016 id: '16884857895891760225703633419764'
+[03-25-2024 11:24:02.497s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:02.497s] [tlv.c:566] processing command: 1016 id: '21523648282150879697747892363799'
+[03-25-2024 11:24:02.598s] [tlv.c:525] handler for 1003: 0x1c30160
+[03-25-2024 11:24:02.598s] [tlv.c:566] processing command: 1003 id: '97703845210697137293847577512580'
+[03-25-2024 11:24:02.699s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:02.699s] [tlv.c:566] processing command: 1016 id: '91190865362871550700126629066890'
+[03-25-2024 11:24:02.800s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:02.800s] [tlv.c:566] processing command: 1016 id: '28984188848569506382497576130989'
+[03-25-2024 11:24:02.900s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:02.900s] [tlv.c:566] processing command: 1016 id: '18792319648729507008288043377700'
+[03-25-2024 11:24:03.001s] [tlv.c:525] handler for 1003: 0x1c30160
+[03-25-2024 11:24:03.001s] [tlv.c:566] processing command: 1003 id: '50041869935180672551531973700582'
+[03-25-2024 11:24:03.102s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:03.102s] [tlv.c:566] processing command: 1016 id: '10983987454445938963594608405781'
+[03-25-2024 11:24:03.203s] [tlv.c:525] handler for 1011: 0x1c30100
+[03-25-2024 11:24:03.203s] [tlv.c:566] processing command: 1011 id: '19978228491040370878605344993061'
+[03-25-2024 11:24:03.304s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:03.304s] [tlv.c:566] processing command: 1016 id: '88244080650956191770764550329132'
+[03-25-2024 11:24:03.404s] [tlv.c:525] handler for 1011: 0x1c30100
+[03-25-2024 11:24:03.404s] [tlv.c:566] processing command: 1011 id: '03718582086729267538915012781004'
+[03-25-2024 11:24:03.505s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:03.505s] [tlv.c:566] processing command: 1016 id: '63450935608774286974994522095148'
+[03-25-2024 11:24:03.605s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:03.605s] [tlv.c:566] processing command: 1016 id: '27064251945798424353956557163015'
+[03-25-2024 11:24:03.706s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:03.706s] [tlv.c:566] processing command: 4 id: '74158418332157183361489700506072'
+[03-25-2024 11:24:03.706s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:03.806s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:03.806s] [tlv.c:566] processing command: 8 id: '14997778135623084220305642751239'
+[03-25-2024 11:24:03.907s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:03.907s] [tlv.c:566] processing command: 1 id: '94032472358980415479098637402734'
+[03-25-2024 11:24:03.908s] [tlv.c:525] handler for 1069: 0x1c310c0
+[03-25-2024 11:24:03.908s] [tlv.c:566] processing command: 1069 id: '94298447990805912844225740427613'
+[03-25-2024 11:24:03.908s] [stdapi/sys/process.c:339] process_new: ln -s $(pwd)/meterpreter-test-dir.1 $(pwd)/meterpreter-test-dir.2/link  0x00000043
+[03-25-2024 11:24:03.908s] [process.c:427] child pid 3174 started
+[03-25-2024 11:24:03.908s] [process.c:462] IO started on fds 10 6
+[03-25-2024 11:24:03.909s] [process.c:274] nothing on fd 6: Invalid argument
+[03-25-2024 11:24:03.909s] [process.c:274] nothing on fd 10: Invalid argument
+[03-25-2024 11:24:03.909s] [process.c:285] child pid 3174 exited status 0
+[03-25-2024 11:24:03.909s] [process.c:274] nothing on fd 10: Invalid argument
+[03-25-2024 11:24:03.909s] [process.c:274] nothing on fd 6: Invalid argument
+[03-25-2024 11:24:04.009s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:04.009s] [tlv.c:566] processing command: 5 id: '88458189596794610585412445887111'
+[03-25-2024 11:24:04.310s] [tlv.c:525] handler for 1068: 0x1c31060
+[03-25-2024 11:24:04.310s] [tlv.c:566] processing command: 1068 id: '07400202785698186257440485373723'
+[03-25-2024 11:24:04.311s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:04.311s] [tlv.c:566] processing command: 1016 id: '02257633663680083834617234828429'
+[03-25-2024 11:24:04.412s] [tlv.c:525] handler for 1003: 0x1c30160
+[03-25-2024 11:24:04.412s] [tlv.c:566] processing command: 1003 id: '98835141397229120575710197975813'
+[03-25-2024 11:24:04.513s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:04.513s] [tlv.c:566] processing command: 1016 id: '07049902790789608072011874489942'
+[03-25-2024 11:24:04.614s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:04.614s] [tlv.c:566] processing command: 1016 id: '87275128769060296405128076997438'
+[03-25-2024 11:24:04.715s] [tlv.c:525] handler for 1003: 0x1c30160
+[03-25-2024 11:24:04.715s] [tlv.c:566] processing command: 1003 id: '27557969665714020035350996554739'
+[03-25-2024 11:24:04.816s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:04.816s] [tlv.c:566] processing command: 1016 id: '21812060910055516559174507216077'
+[03-25-2024 11:24:04.917s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:04.917s] [tlv.c:566] processing command: 1016 id: '08881303958973834478496292911523'
+[03-25-2024 11:24:05.018s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.018s] [tlv.c:566] processing command: 1016 id: '67786143038697628022004324385823'
+[03-25-2024 11:24:05.118s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.118s] [tlv.c:566] processing command: 1016 id: '50358310877079682101639105873344'
+[03-25-2024 11:24:05.219s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.219s] [tlv.c:566] processing command: 1016 id: '06726093947092435566227332780627'
+[03-25-2024 11:24:05.319s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.319s] [tlv.c:566] processing command: 1016 id: '61796166558709631384034021180897'
+[03-25-2024 11:24:05.420s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.420s] [tlv.c:566] processing command: 1016 id: '90607166628555945284545243690192'
+[03-25-2024 11:24:05.521s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.521s] [tlv.c:566] processing command: 1016 id: '58587291982732447404768505015674'
+[03-25-2024 11:24:05.622s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:05.622s] [tlv.c:566] processing command: 4 id: '51423605599002762162626353880292'
+[03-25-2024 11:24:05.622s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:05.715s] [mettle.c:75] Heartbeat
+[03-25-2024 11:24:05.722s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:05.722s] [tlv.c:566] processing command: 8 id: '88197924140465973495136930343637'
+[03-25-2024 11:24:05.822s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:05.822s] [tlv.c:566] processing command: 1 id: '78896806463290901708361747140645'
+[03-25-2024 11:24:05.823s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:05.823s] [tlv.c:566] processing command: 1016 id: '11173039464773957725743334057507'
+[03-25-2024 11:24:05.924s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:05.924s] [tlv.c:566] processing command: 4 id: '25447035004726498820675328027707'
+[03-25-2024 11:24:05.924s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:06.024s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:06.024s] [tlv.c:566] processing command: 5 id: '41647025099130287217348713473463'
+[03-25-2024 11:24:06.125s] [tlv.c:525] handler for 2: 0x1c2fbc0
+[03-25-2024 11:24:06.125s] [tlv.c:566] processing command: 2 id: '80255914977995436822144735487606'
+[03-25-2024 11:24:06.225s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:06.225s] [tlv.c:566] processing command: 1 id: '82168068517997064228567139488358'
+[03-25-2024 11:24:06.226s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:06.226s] [tlv.c:566] processing command: 4 id: '30811551258719582777278580983706'
+[03-25-2024 11:24:06.226s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:06.326s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:06.326s] [tlv.c:566] processing command: 8 id: '66978791116932833386646057949303'
+[03-25-2024 11:24:06.426s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:06.426s] [tlv.c:566] processing command: 1 id: '92949584774250262227093897641866'
+[03-25-2024 11:24:06.427s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:06.427s] [tlv.c:566] processing command: 4 id: '87834940543041775608085908683137'
+[03-25-2024 11:24:06.427s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:06.527s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:06.527s] [tlv.c:566] processing command: 5 id: '43778624391761886992962207315322'
+[03-25-2024 11:24:06.628s] [tlv.c:525] handler for 2: 0x1c2fbc0
+[03-25-2024 11:24:06.628s] [tlv.c:566] processing command: 2 id: '06327728782701078916170547531374'
+[03-25-2024 11:24:06.728s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:06.728s] [tlv.c:566] processing command: 1 id: '94517329571455333119517655506566'
+[03-25-2024 11:24:06.729s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:06.729s] [tlv.c:566] processing command: 4 id: '52000846081048818522270915436875'
+[03-25-2024 11:24:06.729s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:06.829s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:06.829s] [tlv.c:566] processing command: 8 id: '41407664215872000381373816415681'
+[03-25-2024 11:24:06.930s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:06.930s] [tlv.c:566] processing command: 1 id: '94974482196069456368003569414567'
+[03-25-2024 11:24:06.930s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:06.930s] [tlv.c:566] processing command: 4 id: '08381909860791349302346030485150'
+[03-25-2024 11:24:06.930s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:07.031s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:07.031s] [tlv.c:566] processing command: 5 id: '11749643609523080611247738575867'
+[03-25-2024 11:24:07.131s] [tlv.c:525] handler for 2: 0x1c2fbc0
+[03-25-2024 11:24:07.131s] [tlv.c:566] processing command: 2 id: '60387380638750543534257166958941'
+[03-25-2024 11:24:07.232s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:07.232s] [tlv.c:566] processing command: 1 id: '29134239866074961158281027355578'
+[03-25-2024 11:24:07.233s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:07.233s] [tlv.c:566] processing command: 1016 id: '79889868369306917731673958178812'
+[03-25-2024 11:24:07.333s] [tlv.c:525] handler for 1004: 0x1c2fec0
+[03-25-2024 11:24:07.334s] [tlv.c:566] processing command: 1004 id: '41554436127253004084566736906251'
+[03-25-2024 11:24:07.434s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:07.434s] [tlv.c:566] processing command: 1016 id: '63711136165083312032382514372495'
+[03-25-2024 11:24:07.535s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:07.535s] [tlv.c:566] processing command: 1016 id: '61771816060554404946152927234362'
+[03-25-2024 11:24:07.636s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:07.636s] [tlv.c:566] processing command: 4 id: '52983965949977214679852424486131'
+[03-25-2024 11:24:07.636s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:07.736s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:07.736s] [tlv.c:566] processing command: 8 id: '03338905158624231161913962293781'
+[03-25-2024 11:24:07.841s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:07.841s] [tlv.c:566] processing command: 1 id: '23418151217382831175316315942066'
+[03-25-2024 11:24:07.842s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:07.842s] [tlv.c:566] processing command: 1016 id: '34021821914531729250406536690922'
+[03-25-2024 11:24:07.943s] [tlv.c:525] handler for 1007: 0x1c2ff80
+[03-25-2024 11:24:07.943s] [tlv.c:566] processing command: 1007 id: '58288827990932410777442247907138'
+[03-25-2024 11:24:08.043s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:08.044s] [tlv.c:566] processing command: 1016 id: '01100600963314451125323360977630'
+[03-25-2024 11:24:08.145s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:08.145s] [tlv.c:566] processing command: 1016 id: '67443201065965278832230525025294'
+[03-25-2024 11:24:08.245s] [tlv.c:525] handler for 1004: 0x1c2fec0
+[03-25-2024 11:24:08.245s] [tlv.c:566] processing command: 1004 id: '01006994979639705395315093330676'
+[03-25-2024 11:24:08.354s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:08.354s] [tlv.c:566] processing command: 4 id: '16717925450588615197986684408422'
+[03-25-2024 11:24:08.354s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:08.484s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:08.484s] [tlv.c:566] processing command: 8 id: '20010878702548118464707660087754'
+[03-25-2024 11:24:08.547s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:08.547s] [tlv.c:566] processing command: 1 id: '21053313762929479765885513004923'
+[03-25-2024 11:24:08.548s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:08.548s] [tlv.c:566] processing command: 1016 id: '22694340624964039654816608000911'
+[03-25-2024 11:24:08.648s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:08.648s] [tlv.c:566] processing command: 4 id: '70226059495062372898399787782606'
+[03-25-2024 11:24:08.648s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:08.749s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:08.749s] [tlv.c:566] processing command: 5 id: '78814761209661931870009222713511'
+[03-25-2024 11:24:08.853s] [tlv.c:525] handler for 2: 0x1c2fbc0
+[03-25-2024 11:24:08.853s] [tlv.c:566] processing command: 2 id: '30330799879914942448874016684586'
+[03-25-2024 11:24:08.954s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:08.954s] [tlv.c:566] processing command: 5 id: '34967051462568774721124495013693'
+[03-25-2024 11:24:09.057s] [tlv.c:525] handler for 2: 0x1c2fbc0
+[03-25-2024 11:24:09.057s] [tlv.c:566] processing command: 2 id: '90540815764332574886567189517815'
+[03-25-2024 11:24:09.158s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:09.158s] [tlv.c:566] processing command: 1 id: '17193180935316529394383937911901'
+[03-25-2024 11:24:09.159s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:09.159s] [tlv.c:566] processing command: 1016 id: '14238422163602412206253658066899'
+[03-25-2024 11:24:09.259s] [tlv.c:525] handler for 1004: 0x1c2fec0
+[03-25-2024 11:24:09.259s] [tlv.c:566] processing command: 1004 id: '06077372235080468391660668178793'
+[03-25-2024 11:24:09.360s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:09.360s] [tlv.c:566] processing command: 1016 id: '35985480201645254347419166431257'
+[03-25-2024 11:24:09.461s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:09.461s] [tlv.c:566] processing command: 4 id: '29528245442722885570009704326751'
+[03-25-2024 11:24:09.461s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:09.561s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:09.561s] [tlv.c:566] processing command: 8 id: '89177348708425115694230693099862'
+[03-25-2024 11:24:09.662s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:09.662s] [tlv.c:566] processing command: 1 id: '29264154801770712033312490004114'
+[03-25-2024 11:24:09.662s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:09.662s] [tlv.c:566] processing command: 4 id: '56811279503305615937096436851265'
+[03-25-2024 11:24:09.662s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:09.763s] [tlv.c:525] handler for 8: 0x1c2fd40
+[03-25-2024 11:24:09.763s] [tlv.c:566] processing command: 8 id: '58472067034941411798976012605190'
+[03-25-2024 11:24:09.864s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:09.864s] [tlv.c:566] processing command: 1 id: '29109145622685609674153886465356'
+[03-25-2024 11:24:09.864s] [tlv.c:525] handler for 4: 0x1c2fb60
+[03-25-2024 11:24:09.864s] [tlv.c:566] processing command: 4 id: '60203485044286201680106549781324'
+[03-25-2024 11:24:09.864s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:09.964s] [tlv.c:525] handler for 5: 0x1c2fce0
+[03-25-2024 11:24:09.964s] [tlv.c:566] processing command: 5 id: '44107306922120079634957461523891'
+[03-25-2024 11:24:10.066s] [tlv.c:525] handler for 2: 0x1c2fbc0
+[03-25-2024 11:24:10.066s] [tlv.c:566] processing command: 2 id: '77979976717893931193638180084374'
+[03-25-2024 11:24:10.166s] [tlv.c:525] handler for 1: 0x1c2fda0
+[03-25-2024 11:24:10.166s] [tlv.c:566] processing command: 1 id: '36173207826070846046613201924018'
+[03-25-2024 11:24:10.167s] [tlv.c:525] handler for 1016: 0x1c302e0
+[03-25-2024 11:24:10.167s] [tlv.c:566] processing command: 1016 id: '51642233492493362078199229698928'
+[03-25-2024 11:24:10.267s] [tlv.c:525] handler for 1004: 0x1c2fec0
+[03-25-2024 11:24:10.267s] [tlv.c:566] processing command: 1004 id: '44377696001950773536361979665182'
+[03-25-2024 11:24:10.368s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.368s] [tlv.c:566] processing command: 1052 id: '74038231993692356043254739278378'
+[03-25-2024 11:24:10.469s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.469s] [tlv.c:566] processing command: 1052 id: '46980883939749127037732659847794'
+[03-25-2024 11:24:10.570s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.570s] [tlv.c:566] processing command: 1052 id: '46659068640937074831613900846961'
+[03-25-2024 11:24:10.671s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.671s] [tlv.c:566] processing command: 1052 id: '38560282764789322400934739602206'
+[03-25-2024 11:24:10.715s] [mettle.c:75] Heartbeat
+[03-25-2024 11:24:10.772s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.772s] [tlv.c:566] processing command: 1052 id: '25650414091617104064645835320615'
+[03-25-2024 11:24:10.873s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.873s] [tlv.c:566] processing command: 1052 id: '83657661283280618885659799099359'
+[03-25-2024 11:24:10.974s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:10.974s] [tlv.c:566] processing command: 1052 id: '88975919231955049010562360225127'
+[03-25-2024 11:24:11.074s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:11.074s] [tlv.c:566] processing command: 1052 id: '14661742311702275101001767094424'
+[03-25-2024 11:24:11.176s] [tlv.c:525] handler for 1052: 0x1c30e20
+[03-25-2024 11:24:11.176s] [tlv.c:566] processing command: 1052 id: '04705765333989343206422132775705'
+[03-25-2024 11:24:11.277s] [tlv.c:525] handler for 1001: 0x1c2fe60
+[03-25-2024 11:24:11.277s] [tlv.c:566] processing command: 1001 id: '81377082698952652381201405692722'
+[03-25-2024 11:24:11.378s] [tlv.c:525] handler for 1008: 0x1c300a0
+[03-25-2024 11:24:11.378s] [tlv.c:566] processing command: 1008 id: '65360778196757518039774077104203'

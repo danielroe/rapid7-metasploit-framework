@@ -1,0 +1,101 @@
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 10, cb 0x10252ef0e, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 13, cb 0x10252ef91, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 22, cb 0x10252efe5, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 11, cb 0x10252f045, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 21, cb 0x10252f086, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 16, cb 0x10252f0eb, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 12, cb 0x10252f23f, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 23, cb 0x10252f5bb, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 4, cb 0x10252e81b, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 2, cb 0x10252e913, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 6, cb 0x10252e99b, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 7, cb 0x10252ea54, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 5, cb 0x10252eae3, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 8, cb 0x10252ec14, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 1, cb 0x10252ed06, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.483s] [tlv.c:498] Registering command 3, cb 0x10252ed69, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1001, cb 0x10253a1e7, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1004, cb 0x10253a19b, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1006, cb 0x102539ef8, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1007, cb 0x102539f47, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1005, cb 0x102539fa9, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1002, cb 0x10253a110, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1008, cb 0x102539d0d, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1011, cb 0x102539d88, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1003, cb 0x102539e10, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1009, cb 0x1025393e2, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1013, cb 0x10253970f, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1014, cb 0x102539ed8, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1016, cb 0x102539c6c, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1010, cb 0x10253a22e, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1015, cb 0x10253a39b, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1026, cb 0x10253aba2, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1019, cb 0x10253aea9, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1022, cb 0x10253b118, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1017, cb 0x10253b34b, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1023, cb 0x10253b4f0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1018, cb 0x10253b210, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1021, cb 0x10253b517, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1020, cb 0x10253b57c, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1024, cb 0x10253bca1, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1025, cb 0x10253bcbf, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1052, cb 0x10253bd21, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1055, cb 0x10253be16, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1059, cb 0x10253be63, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1056, cb 0x10253bf46, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1071, cb 0x10253c09f, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1067, cb 0x10253c31e, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1068, cb 0x10253c41d, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1069, cb 0x10253c640, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1077, cb 0x10253c478, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1071, cb 0x10253c09f, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1072, cb 0x10253c4ff, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1070, cb 0x10253c53d, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1095, cb 0x10253c590, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1118, cb 0x102542bdc, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1112, cb 0x102542530, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1113, cb 0x1025423e0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1114, cb 0x1025424e0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1111, cb 0x1025422c0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1098, cb 0x102542c70, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1105, cb 0x102542e70, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1104, cb 0x102543c00, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1106, cb 0x102543d20, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 3002, cb 0x102542ae0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 3009, cb 0x1025429e0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1117, cb 0x102545230, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1115, cb 0x1025450f0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [tlv.c:498] Registering command 1116, cb 0x1025451e0, arg 0x7f9a0080ba00
+[03-25-2024 11:24:54.484s] [mettle.c:75] Heartbeat
+[03-25-2024 11:24:54.484s] [network_client.c:467] resolving 'tcp://127.0.0.1:6005'
+[03-25-2024 11:24:54.484s] [network_client.c:345] connecting to tcp://127.0.0.1:6005
+[03-25-2024 11:24:54.485s] [network_client.c:278] connected to 'tcp://127.0.0.1:6005'
+[03-25-2024 11:24:54.564s] [tlv.c:525] handler for 16: 0x7f9a00413180
+[03-25-2024 11:24:54.564s] [tlv.c:566] processing command: 16 id: '92969661214790461474651192031962'
+[03-25-2024 11:24:54.569s] [tlv.c:525] handler for 21: 0x7f9a00413130
+[03-25-2024 11:24:54.569s] [tlv.c:566] processing command: 21 id: '71273736168372615175533387558397'
+[03-25-2024 11:24:54.571s] [tlv.c:525] handler for 10: 0x7f9a00506970
+[03-25-2024 11:24:54.571s] [tlv.c:566] processing command: 10 id: '98453487564957939990320323971466'
+[03-25-2024 11:24:54.576s] [tlv.c:525] handler for 10: 0x7f9a00506970
+[03-25-2024 11:24:54.576s] [tlv.c:566] processing command: 10 id: '34683316528266193517721914072920'
+[03-25-2024 11:24:54.615s] [tlv.c:525] handler for 1008: 0x7f9a004136d0
+[03-25-2024 11:24:54.615s] [tlv.c:566] processing command: 1008 id: '97270310716959366217560011673540'
+[03-25-2024 11:24:54.617s] [tlv.c:525] handler for 1055: 0x7f9a00414210
+[03-25-2024 11:24:54.618s] [tlv.c:566] processing command: 1055 id: '73503930827058807778844627631115'
+[03-25-2024 11:24:54.620s] [tlv.c:525] handler for 1059: 0x7f9a00414260
+[03-25-2024 11:24:54.620s] [tlv.c:566] processing command: 1059 id: '95879552432829245388236014633524'
+[03-25-2024 11:24:54.639s] [tlv.c:525] handler for 1019: 0x7f9a00413ef0
+[03-25-2024 11:24:54.640s] [tlv.c:566] processing command: 1019 id: '65729931869422029757775225528354'
+[03-25-2024 11:24:54.642s] [tlv.c:525] handler for 1022: 0x7f9a00413f40
+[03-25-2024 11:24:54.642s] [tlv.c:566] processing command: 1022 id: '91396370798879237506291032651193'
+[03-25-2024 11:24:54.958s] [tlv.c:525] handler for 1016: 0x7f9a004138b0
+[03-25-2024 11:24:54.958s] [tlv.c:566] processing command: 1016 id: '95666610299547499663357233449672'
+[03-25-2024 11:24:54.969s] [tlv.c:525] handler for 4: 0x7f9a00413270
+[03-25-2024 11:24:54.969s] [tlv.c:566] processing command: 4 id: '94483225396368079150081749695302'
+[03-25-2024 11:24:54.969s] [channel.c:258] creating new channel of type stdapi_fs_file
+[03-25-2024 11:24:54.980s] [tlv.c:525] handler for 5: 0x7f9a004133b0
+[03-25-2024 11:24:54.980s] [tlv.c:566] processing command: 5 id: '53883837603530492819499394070385'
+[03-25-2024 11:24:54.991s] [tlv.c:525] handler for 2: 0x7f9a004132c0
+[03-25-2024 11:24:54.991s] [tlv.c:566] processing command: 2 id: '28489649253663466957718871561213'
+[03-25-2024 11:24:55.001s] [tlv.c:525] handler for 1: 0x7f9a00413450
+[03-25-2024 11:24:55.001s] [tlv.c:566] processing command: 1 id: '99334344373535698788060715175186'

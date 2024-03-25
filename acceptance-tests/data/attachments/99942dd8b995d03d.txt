@@ -1,0 +1,36 @@
+use python/meterpreter_reverse_tcp
+msf6 post(test/meterpreter) > irb -e '(self.respond_to?(:framework) ? framework : self).datastore.user_defined.clear'
+setg SessionTlvLogging file:D:/a/_temp/pythonmeterpreter_reverse_tcp_session_tlv_logging20240325-6936-o0ugjvtxt
+msf6 payload(python/meterpreter_reverse_tcp) > msf6 payload(python/meterpreter_reverse_tcp) > SessionTlvLogging => file:D:/a/_temp/pythonmeterpreter_reverse_tcp_session_tlv_logging20240325-6936-o0ugjvtxt
+msf6 payload(python/meterpreter_reverse_tcp) > generate -o D:/a/_temp/child-process-rb-python-meterpreter-reverse-tcp20240325-6936-f1ak7z.py -f raw AutoVerifySessionTimeout=30 lport=6009 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:D:/a/_temp/pythonmeterpreter_reverse_tcp_debug_log20240325-6936-ltpcqjtxt MeterpreterTryToFork=false PythonMeterpreterDebug=true
+[*] Writing 24924 bytes to D:/a/_temp/child-process-rb-python-meterpreter-reverse-tcp20240325-6936-f1ak7z.py...
+msf6 payload(python/meterpreter_reverse_tcp) > to_handler AutoVerifySessionTimeout=30 lport=6009 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:D:/a/_temp/pythonmeterpreter_reverse_tcp_debug_log20240325-6936-ltpcqjtxt MeterpreterTryToFork=false PythonMeterpreterDebug=true
+[*] Payload Handler Started as Job 8
+msf6 payload(python/meterpreter_reverse_tcp) > 
+[!] You are binding to a loopback address by setting LHOST to 127.0.0.1. Did you want ReverseListenerBindAddress?
+[*] Started reverse TCP handler on 127.0.0.1:6009 
+[*] Meterpreter session 9 opened (127.0.0.1:6009 -> 127.0.0.1:50773) at 2024-03-25 11:27:38 +0000
+use post/test/cmd_exec
+msf6 post(test/cmd_exec) > run session=9 AddEntropy=true Verbose=true
+[!] SESSION may not be compatible with this module:
+[!]  * missing Meterpreter features: stdapi_fs_chmod
+[*] Running against session 9
+[*] Session type is meterpreter and platform is windows
+[*] Starting cmd_exec stderr tests
+[+] should return the stderr output
+[*] Starting cmd_exec tests
+[*] [should return the result of echo] meterpreter?
+[+] should return the result of echo
+[*] Session does not support sleep, skipping sleep tests
+[*] Finished cmd_exec tests
+[*] Starting cmd_exec quote tests
+[+] should return the result of echo with single quotes
+[+] should return the result of echo with double quotes
+[*] Testing complete in 0.94 seconds
+[*] Passed: 4; Failed: 0; Skipped: 0
+[*] Post module execution completed
+msf6 post(test/cmd_exec) > sessions -K
+jobs -K
+[*] Killing all sessions...
+[*] 127.0.0.1 - Meterpreter session 9 closed.
+msf6 post(test/cmd_exec) > Stopping all jobs...

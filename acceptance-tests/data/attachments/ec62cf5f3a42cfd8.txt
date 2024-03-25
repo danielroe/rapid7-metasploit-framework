@@ -1,0 +1,64 @@
+Final status:
+Process still alive after running test suite
+stdout and stderr:
+DEBUG:root:[*] running method core_negotiate_tlv_encryption
+DEBUG:root:[*] Negotiating TLV encryption
+DEBUG:root:[*] RSA key: 30820122300d06092a864886f70d01010105000382010f003082010a0282010100dd524313691c73b0bd3223ae7729131139f7c7647aa1db66fa0dad38fbbe5546c8bcebc7a61aa0597e28daa1cb06ea37178977fe4eab8976656483c8ba38c4740e0670c003d471d95677d369e55f7d06fabadf7f735cda53e221ac3361116c9e5606d43dfa1738bb6e2864673116dbb32b82f28380e97ee642552c5c5a4d2d6bdfb83345394156fc8e0935f6060224954d28e30e678e96501e16befc5384589a36f4c53c13d90168f9eeeb75ee066fdde7c6d422e7e55937564da422f8ada6c0355104e442f1b49c3072dbdaa01b7793ff98d1c3599a46d1997f9f9739a2d6fe0953b5ca2f3f95532f23b56e7c2877387d6c5c98706fdd776c6539c569e2cfaf0203010001
+DEBUG:root:[*] AES key: 0x4f43b67717a29ee20aa7818b4c36a52f0094d1aeca16fa34eee8b87c64d69dd6
+DEBUG:root:[*] Encrypted AES key: 0xb0ca70f416b9684ad2625414e03a781cdec8d864f460066d0bb26771881ae935242c50547f2373efc31afb9e84518ba0ab208f43e30e3159059ebc1926e3be7dd962fd233fd3b688c9bcc8db6d75b1a47f088db0f91dd03a9d3f953290306b4e2133729ed538b5a98d204f70845ae6931c5ced6da352581a4362e2acf9746ba78b08d22f975518bd6f13c6afc975c0278b251be750c54cd3ba98b7f23a951cf2dee13cef56ae7daf934938426bd93aa9800a0fa0dceca6b140125fd9397a02b2c3fd35ca23d33e2e62492086d8e0fad3bba10d2c697bad8f2b6c238e2bc0c661d47000ab56c497b386cbc3dd379badf8c20b75165d156bb91255dc27fcdaa06d
+DEBUG:root:[*] TLV encryption sorted
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_session_guid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_enumextcmd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_loadlib
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_fs_getwd
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_getuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_config_sysinfo
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_set_uuid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_interfaces
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_net_config_get_routes
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method core_native_arch
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!malloc
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_process_getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!calloc
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!inet_ntop
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!strcat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api_multi
+DEBUG:root:[*] railgun calling: libc.dylib!getpid
+DEBUG:root:[*] railgun calling: libc.dylib!strcat
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_sys_process_getpid
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_memwrite
+DEBUG:root:[*] railgun writing 128 bytes to 0x0x7fbc05f0b0e0
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_memread
+DEBUG:root:[*] railgun reading 128 bytes from 0x0x7fbc05f0b0e0
+DEBUG:root:[*] sending response packet
+DEBUG:root:[*] running method stdapi_railgun_api
+DEBUG:root:[*] railgun calling: libc.dylib!free
+DEBUG:root:[*] sending response packet
